@@ -1,0 +1,40 @@
+body {
+    background-color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+  }
+  
+  .imagem{width: 33%;
+    height: auto;
+    max-width: 235px;}
+
+  .blur {filter: blur(4px);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .brightness {filter: brightness(150%);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .contrast {filter: contrast(180%);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .grayscale {filter: grayscale(70%);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .huerotate {filter: hue-rotate(180deg);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .invert {filter: invert(100%);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .opacity {filter: opacity(50%);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .saturate {filter: saturate(7);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .sepia {filter: sepia(100%);width: 33%;
+    height: auto;
+    max-width: 235px;}
+  .shadow {filter: drop-shadow(8px 8px 10px green);width: 33%;
+    height: auto;
+    max-width: 235px;}
